@@ -1,1 +1,1 @@
-![Mandril Dev](https://github.com/mandrildev/mandrildev/blob/main/Mandril%20Dev%20Wallpaper%20Desktop.png)
+![Mandril Dev](https://raw.githubusercontent.com/mandrildev/mandrildev/main/MandrilDev%20-%20Twitch%20Banner%20Final.png)
