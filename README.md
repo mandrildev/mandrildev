@@ -1,6 +1,4 @@
-🧉 **mandrildev**: Tutoriales de programación.
-
-- 🐵 Tutoriales de programación
+# 🐵 mandrildev: Tutoriales de programación
 - 🤓 Voy a intentar a enseñar: **Todo lo que sé sobre programación.**
 - 💻 Especialmente: **.NET**
 - 🧉 **En español**
